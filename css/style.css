@@ -114,9 +114,9 @@ p {
 }
 
 .dragon-knight {
+  float: right;
   height: 25%;
   width: 25%;
-  float: right;
   margin-right: 100px;
   padding: 60px;
 }
