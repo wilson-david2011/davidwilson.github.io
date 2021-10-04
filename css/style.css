@@ -1,0 +1,176 @@
+body {
+  color: #606060;
+  margin: 0;
+  text-align: center;
+  font-family: "Crimson Text", serif;
+  background-color: #fcecdd;
+  font-size: 1.25rem;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+h1 {
+  color: #fcecdd;
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  width: 40%;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  color: #ff6701;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5em;
+}
+
+h3 {
+  color: #fea82f;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2em;
+}
+
+a {
+  color: #ff6701;
+  text-decoration: none !important;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #fea82f;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #ff6701;
+  position: relative;
+  padding-top: 75px;
+}
+
+.middle-container {
+  position: relative;
+  margin: 45px auto 100px auto;
+  padding-top: 35px;
+}
+
+.bottom-container {
+  background-color: #ffc288;
+  position: relative;
+  margin: 0px;
+  padding-top: 35px;
+}
+
+.top-cloud {
+  height: 15%;
+  width: 10%;
+  position: absolute;
+  left: 65%;
+  top: 10%;
+}
+
+.bottom-cloud {
+  height: 15%;
+  width: 10%;
+  position: absolute;
+  left: 25%;
+  bottom: 40%;
+}
+
+.pumpkin {
+  height: 25%;
+  width: 25%;
+}
+
+.sub-heading {
+  color: #fcecdd;
+  font-family: "Crimson Text", serif;
+  font-size: 1.9em;
+  font-weight: normal;
+}
+
+.red-dragon-die {
+  width: 10%;
+  height: 10%;
+  padding-top: 0px;
+  margin-top: 20px;
+}
+
+.html-css-js-logo {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  padding: 80px;
+}
+
+.dungeons-logo {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-right: 100px;
+  padding: 60px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+}
+
+.btn {
+  background: #ff6701;
+  background-image: -webkit-linear-gradient(top, #ff6701, #ff6701);
+  background-image: -moz-linear-gradient(top, #ff6701, #ff6701);
+  background-image: -ms-linear-gradient(top, #ff6701, #ff6701);
+  background-image: -o-linear-gradient(top, #ff6701, #ff6701);
+  background-image: linear-gradient(to bottom, #ff6701, #ff6701);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #fcecdd;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffc288;
+  text-decoration: none;
+}
+
+.footer-link {
+  margin: 30px 10px 10px 30px;
+}
+
+.copyright {
+  margin-bottom: 0px;
+  margin-top: 15px;
+  padding: 20px 0 20px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
